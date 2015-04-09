@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Service test</string>
+    <string name="action_settings">Settings</string>
+    <string name="local_service_started">The service has started!!!</string>
+    <string name="local_service_stopped">The service has stopped. :(</string>
+    <string name="local_service_label">Service that does stuff</string>
+    <string name="local_service_connected">The service is now connected</string>
+    <string name="local_service_disconnected">Service disconnected. Dammit.</string>
+    <string name="button_start_service">Let\'s start the Service</string>
+    <string name="button_unbind_service">Ok, enough.</string>
+    <string name="button_get_data">Get the data</string>
+    <string name="button_destroy_service">DESTROY!!!!</string>
+</resources>
